@@ -1,0 +1,3 @@
+TOKEN = '5914493576:AAGMa87zNPctBIe1udUayo9lj5-t_slCX0o'
+
+Admins = ['631694976'] 
